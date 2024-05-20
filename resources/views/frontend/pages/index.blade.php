@@ -14,8 +14,8 @@
           more than 10 years, It’s more
           competitive space for agency.</p>
         <div class="hero__button btn_wrapper">
-          <a href="service.html" class="wc-btn-pink btn-hover btn-item"><span></span>
-            Explore <br>our services <i class="fa-solid fa-arrow-right"></i></a>
+          <a href="#" class="wc-btn-pink btn-hover btn-item"><span></span>
+            Our  <br>Services <i class="fa-solid fa-arrow-right"></i></a>
         </div>
       </div>
     </div>
