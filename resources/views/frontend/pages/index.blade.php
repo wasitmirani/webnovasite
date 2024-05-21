@@ -10,9 +10,10 @@
         <h2 class="sec-title-3">Digital <br>Experience</h2>
       </div>
       <div class="hero__text-2">
-        <p>Thinking, writing and planning with brand are just a of what we do. For
-          more than 10 years, It’s more
-          competitive space for agency.</p>
+        <p>
+          Brainstorming, strategizing, and composing abreast brands is our culture. 
+          For decades, it has been a hard nut to crack for agencies
+        </p>
         <div class="hero__button btn_wrapper">
           <a href="#" class="wc-btn-pink btn-hover btn-item"><span></span>
             Our  <br>Services <i class="fa-solid fa-arrow-right"></i></a>
@@ -33,13 +34,15 @@
         <div class="row">
           <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6">
             <div class="sec-title-wrapper">
-              <h2 class="sec-title title-anim">Features are more helpful to create creative shapes as well.</h2>
+              <h2 class="sec-title title-anim">
+                Brand-oriented approach is worthwhile in creating creative designs
+              </h2>
             </div>
           </div>
           <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6">
             <div class="feature__text text-anim">
-              <p>We are constantly rethinking the future by creating the next generation of products, brands and
-                services from a hybrid perspective. The unthinkable today becomes inevitable.</p>
+              <p>
+                We consistently work to produce modern yet futuristic products and brands for better user experience. Let us transform your dreams into reality.</p>
             </div>
           </div>
         </div>
@@ -53,30 +56,29 @@
             <div class="feature__list animation__feature2">
               <div class="feature__item">
                 <img src="assets/imgs/feature/icon/1.png" alt="Feature Icon">
-                <h3 class="feature__title">Branding</h3>
-                <p>Having these marketplace to your branded skilled team of designers and developers who
-                  embracement
-                  perfection.</p>
+                <h3 class="feature__title">Strategize</h3>
+                <p>As your brand needs help, we prepare and plan your go-to-market strategy so you can leverage the resources more effectively 
+                </p>
               </div>
               <div class="feature__item">
                 <img src="assets/imgs/feature/icon/2.png" alt="Feature Icon">
-                <h3 class="feature__title">Optimum</h3>
-                <p>Brand identity design a the key to success whether you breath rebranding an existing business
-                  or
-                  creating a business</p>
+                <h3 class="feature__title">Collaborate</h3>
+                <p>
+                  Once we are on the same page, we work out to finalize our dos and don’ts by collaborating with you and setting our project goals and milestones
+
+                </p>
               </div>
               <div class="feature__item">
                 <img class="" src="assets/imgs/feature/icon/3.png" alt="Feature Icon">
-                <h3 class="feature__title">Thinking</h3>
-                <p>Creative typography plays the big role to pull off this trending more effectively with the
-                  thinking use a thicker point</p>
+                <h3 class="feature__title">Execute</h3>
+                <p>Everything is on us, and we mean it. We ensure that we always align and are ahead of the milestones agreed upon earlier; delivering them with smooth execution
+                </p>
               </div>
               <div class="feature__item">
                 <img src="assets/imgs/feature/icon/4.png" alt="Feature Icon">
-                <h3 class="feature__title">Execution</h3>
-                <p>Stricky with multiple shades of the colours. However, this type of alone can look awesome
-                  forever
-                  an online business</p>
+                <h3 class="feature__title">Iterate</h3>
+                <p>Our strength is in our customers, and it can only be achieved until we excel in our unique selling propositions by continuously refining our processes
+                </p>
               </div>
             </div>
           </div>
@@ -92,49 +94,24 @@
     <div class="swiper roll__slider">
       <div class="swiper-wrapper roll__wrapper">
         <div class="swiper-slide roll__slide">
+          <h2>Branding</h2>
+        </div>
+        <div class="swiper-slide roll__slide">
+          <h2>Designing</h2>
+        </div>
+        <div class="swiper-slide roll__slide">
           <h2>Development</h2>
         </div>
         <div class="swiper-slide roll__slide">
-          <h2>Studio</h2>
+          <h2>Digital Solutions
+          </h2>
         </div>
         <div class="swiper-slide roll__slide">
-          <h2>Strategy</h2>
+          <h2>Animation</h2>
         </div>
         <div class="swiper-slide roll__slide">
-          <h2>Branding</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Agency</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>typhography</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Design</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Interaction</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Element</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>DIgital SOlution</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Strategy</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Branding</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Agency</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Interaction</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>DIgital SOlution</h2>
+          <h2>Content Composition
+          </h2>
         </div>
       </div>
     </div>
@@ -144,52 +121,27 @@
 
   <!-- Roll area start -->
   <section class="roll__area-3">
-    <div dir="rtl" class="swiper roll__slider">
+    <div class="swiper roll__slider">
       <div class="swiper-wrapper roll__wrapper">
-        <div class="swiper-slide roll__slide ">
+        <div class="swiper-slide roll__slide">
+          <h2>Branding</h2>
+        </div>
+        <div class="swiper-slide roll__slide">
+          <h2>Designing</h2>
+        </div>
+        <div class="swiper-slide roll__slide">
           <h2>Development</h2>
         </div>
         <div class="swiper-slide roll__slide">
-          <h2>Studio</h2>
+          <h2>Digital Solutions
+          </h2>
         </div>
         <div class="swiper-slide roll__slide">
-          <h2>Strategy</h2>
+          <h2>Animation</h2>
         </div>
         <div class="swiper-slide roll__slide">
-          <h2>Branding</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Agency</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>typhography</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Design</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Interaction</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Element</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>DIgital SOlution</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Strategy</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Branding</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Agency</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>Interaction</h2>
-        </div>
-        <div class="swiper-slide roll__slide">
-          <h2>DIgital SOlution</h2>
+          <h2>Content Composition
+          </h2>
         </div>
       </div>
     </div>
@@ -203,10 +155,9 @@
       <div class="row">
         <div class="col-xxl-12">
           <div class="sec-title-wrapper text-anim">
-            <h2 class="sec-title-3 title-anim">Selected <span>Projects</span></h2>
-            <p class="sec-text">Worked with global brands & agency at the
-              intersection of flat design and digital
-              technology.</p>
+            <h2 class="sec-title-3 title-anim">Glimpse On	
+              <span>Our Projects</span></h2>
+            <p class="sec-text">Transformed ideas of many into reality. A glance at our selected projects.</p>
           </div>
         </div>
       </div>
@@ -217,7 +168,8 @@
         <div class="swiper-slide">
           <div class="portfolio__slide-2">
             <div class="slide-img">
-              <a href="portfolio-details.html"><img src="assets/imgs/portfolio/2/1.jpg" alt="Portfolio Image"></a>
+              <a href="portfolio-details.html">
+                <img src="assets/imgs/portfolio/2/1.jpg" alt="Portfolio Image"></a>
             </div>
             <div class="slide-content">
               <h2 class="sec-title"> <a href="portfolio-details.html">Lionpro <span>Agency</span></a>
@@ -319,19 +271,16 @@
       <div class="row">
         <div class="col-xxl-12">
           <div class="sec-title-wrapper">
-            <h2 class="sec-title title-anim">We design and develop
-              outstanding Digital <br> Products
-              and digital-first Brands.</h2>
+            <h2 class="sec-title title-anim">We design and develop exceptional digital products and brands 
+              .</h2>
           </div>
           <div class="sec-text-wrapper">
             <div class="sec-text text-anim">
-              <p>We help brands stand out through powerful, elegant visual design. Our design philosophy is shaped
-                by our experience growing up at our father’s bookbindery. Surrounded by the highest-quality
-                materials and turn-of-the-century machines, we observed the art of true craftsmanship firsthand.
+              <p>we assist brands in designing creative, responsive yet powerful products. Our philosophy is simple; transforming your concept and ideas into reality without compromising the quality. Our skilled craftsmen can produce an impressive user experience
               </p>
             </div>
             <div class="sec-btn btn_wrapper">
-              <a class="wc-btn-pink btn-hover btn-item" href="about.html"><span></span> Explore Us <i class="fa-solid fa-arrow-right"></i></a>
+              <a class="wc-btn-pink btn-hover btn-item" href="#"><span></span> Explore Us <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -345,7 +294,8 @@
     <div class="container pb-140">
       <div class="row">
         <div class="col-xxl-12">
-          <h2 class="brand__title-2 title-anim">We worked with global largest brands
+          <h2 class="brand__title-2 title-anim">Our recent work worldwide
+
           </h2>
           <div class="brand__list-2">
             <div class="brand__item-2 fade_bottom">
@@ -380,15 +330,14 @@
       <div class="row">
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
           <div class="sec-text text-anim">
-            <p>We are passionate to create connected brands and services, and campaigns to enable stable and
-              successful relationships between businesses and customers.</p>
+            <p>A fruitful relationship between businesses and their customers is the key to success, which we believe in. That’s why we dedicate our services to join these strings together
+              .</p>
           </div>
         </div>
         <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
           <div class="sec-title-wrapper">
-            <h2 class="sec-title title-anim">We grow your brands through
-              bold service
-              we’re providing</h2>
+            <h2 class="sec-title title-anim">We build your brands by providing our vivid services
+            </h2>
           </div>
         </div>
       </div>
@@ -399,39 +348,52 @@
             <div class="service__item-2">
               <div>
                 <img src="assets/imgs/service/2/1.png" alt="Service Icon">
-                <h3 class="service__title-2">Branding <br>Design</h3>
-                <p>We help brands stand out through aweful, elegant visual design. Our design mainly philosophy.
+                <h3 class="service__title-2">Unique 
+                  <br>Branding</h3>
+                <p>Standout from your competitors in the digital space by showcasing your unique selling points
+
                 </p>
                 <ul>
-                  <li>+ Logo Design</li>
-                  <li>+ Advertisement</li>
-                  <li>+ Promotion</li>
+                  <li>Logo Design
+                  </li>
+                  <li>Stationary Design
+                  </li>
+                  <li>Brochure & Flyer design
+                  </li>
                 </ul>
               </div>
             </div>
             <div class="service__item-2">
               <div>
                 <img src="assets/imgs/service/2/2.png" alt="Service Icon">
-                <h3 class="service__title-2 ">Digital Product <br>Design</h3>
-                <p>We help brands stand out through aweful, elegant visual design. Our design mainly philosophy.
+                <h3 class="service__title-2 ">Design &  
+                  <br>Development</h3>
+                <p>Let us create vibrant and elegant visual designs that will leave your customers in awe
+
                 </p>
                 <ul>
-                  <li>+ Logo Design</li>
-                  <li>+ Advertisement</li>
-                  <li>+ Promotion</li>
+                  <li>UI/UX Design
+                  </li>
+                  <li>Website Development</li>
+                  <li>Application Development
+                  </li>
                 </ul>
               </div>
             </div>
             <div class="service__item-2">
               <div>
                 <img src="assets/imgs/service/2/3.png" alt="Service Icon">
-                <h3 class="service__title-2">Architectural <br>Design</h3>
-                <p>We help brands stand out through aweful, elegant visual design. Our design mainly philosophy.
+                <h3 class="service__title-2">Digital 
+                  <br>Solutions</h3>
+                <p>You need a digital presence to expand exponentially in the contemporary world, let us help you out
                 </p>
                 <ul>
-                  <li>+ Logo Design</li>
-                  <li>+ Advertisement</li>
-                  <li>+ Promotion</li>
+                  <li>Digital Marketing
+                  </li>
+                  <li>Social Media Management
+                  </li>
+                  <li>Search Engine Optimization
+                  </li>
                 </ul>
               </div>
             </div>
@@ -439,7 +401,7 @@
         </div>
         <div class="col-xxl-12">
           <div class="service__btn-2 btn_wrapper">
-            <a href="service.html" class="wc-btn-pink btn-hover btn-item"><span></span> View <br>all services
+            <a href="#" class="wc-btn-pink btn-hover btn-item"><span></span> View <br>all services
               <i class="fa-solid fa-arrow-right"></i></a>
           </div>
         </div>
@@ -449,67 +411,7 @@
   <!-- Service area end -->
 
 
-  <!-- Award area start -->
-  <section class="award__area pt-130 pb-140">
-    <div class="container">
-      <div class="row">
-        <div class="col-xxl-12">
-          <div class="sec-title-wrapper pb-140">
-            <h2 class="sec-title title-anim">We’re nominated as Agency of
-              the Year amongst best
-              Digital Agencies
-              Worldwide.</h2>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
-          <div class="award__left">
-            <h4 class="award__text-2">award</h4>
-            <h3 class="award__text">award</h3>
-            <img src="assets/imgs/shape/3.png" alt="Shape Image" data-speed="1" data-lag="0.2">
-          </div>
-        </div>
-        <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
-          <div class="award__right">
-            <p>We're passionate about doing the best digital
-              innovation we can and pushing new
-              technology
-              to its limits. And we achieve
-              results we're proud of beyond the realm.</p>
-            <div class="award__list">
-              <div class="award__item">
-                <p>Dribbble</p>
-                <p>Nominee</p>
-                <p>2021</p>
-              </div>
-              <div class="award__item">
-                <p>Behance</p>
-                <p>Winner</p>
-                <p>2020</p>
-              </div>
-              <div class="award__item">
-                <p>Template UI</p>
-                <p>Nominee</p>
-                <p>2018</p>
-              </div>
-              <div class="award__item">
-                <p>Awwwards</p>
-                <p>Winner</p>
-                <p>2016</p>
-              </div>
-              <div class="award__item">
-                <p>Themeforest</p>
-                <p>Winner</p>
-                <p>2012</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Award area end -->
+
 
 
   <!-- CTA area start -->
@@ -519,11 +421,13 @@
       <div class="row">
         <div class="col-xxl-12">
           <div class="cta__content-2">
-            <p class="cta__sub-title-2 title-anim">Have you project in mind?</p>
-            <h2 class="cta__title-2 title-anim">Let’s make something
-              great together!</h2>
+            <p class="cta__sub-title-2 title-anim">Have something in mind?
+            </p>
+            <h2 class="cta__title-2 title-anim">Let’s create something special together
+            </h2>
             <div class="btn_wrapper">
-              <a href="contact.html" class="wc-btn-pink btn-hover btn-item"><span></span>Contact <br>with us <i class="fa-solid fa-arrow-right"></i></a>
+              <a href="#" class="wc-btn-pink btn-hover btn-item"><span></span>Let’s
+                <br> connect <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -539,17 +443,20 @@
       <div class="row ">
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
           <div class="sec-title-wrapper">
-            <h2 class="sec-title title-anim">Updated Journal</h2>
+            <h2 class="sec-title title-anim">Topics For You
+            </h2>
           </div>
         </div>
         <div class="col-xxl-4 col-xl-4 col-lg-5 col-md-4">
           <div class="sec-text text-anim">
-            <p>We help brands stand out through aweful, elegant visual design. Our design mainly philosophy.</p>
+            <p>Find out the best topics related to this industry and remain updated in this field
+              .</p>
           </div>
         </div>
         <div class="col-xxl-4 col-xl-4 col-lg-3 col-md-4">
           <div class="sec-btn btn_wrapper">
-            <a href="blog.html" class="wc-btn-pink btn-hover btn-item"><span></span> Read <br>all journal <i class="fa-solid fa-arrow-right"></i></a>
+            <a href="#" class="wc-btn-pink btn-hover btn-item"><span></span> Read more
+               <i class="fa-solid fa-arrow-right"></i></a>
           </div>
         </div>
       </div>
@@ -558,15 +465,15 @@
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
           <article class="blog__item-2">
             <div class="blog__img-wrapper">
-              <a href="blog-details.html">
+              <a href="#">
                 <div class="img-box">
                   <img class="image-box__item" src="assets/imgs/blog/1/1.jpg" alt="Blog Thumbnail">
                   <img class="image-box__item" src="assets/imgs/blog/1/1.jpg" alt="BLog Thumbnail">
                 </div>
               </a>
             </div>
-            <h4 class="blog__meta-2"><a href="category.html">UI Design</a> . 02 May 2019</h4>
-            <h5><a href="blog-details.html" class="blog__title-2">Ways of lying to yourself about your
+            <h4 class="blog__meta-2"><a href="#">UI Design</a> . 02 May 2019</h4>
+            <h5><a href="#" class="blog__title-2">Ways of lying to yourself about your
                 new relationship.</a></h5>
           </article>
         </div>
@@ -574,15 +481,15 @@
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
           <article class="blog__item-2">
             <div class="blog__img-wrapper">
-              <a href="blog-details.html">
+              <a href="#">
                 <div class="img-box">
                   <img class="image-box__item" src="assets/imgs/blog/1/2.jpg" alt="Blog Thumbnail">
                   <img class="image-box__item" src="assets/imgs/blog/1/2.jpg" alt="BLog Thumbnail">
                 </div>
               </a>
             </div>
-            <h4 class="blog__meta-2"><a href="category.html">UI Design</a> . 02 May 2019</h4>
-            <h5><a href="blog-details.html" class="blog__title-2">How to manage a talented and
+            <h4 class="blog__meta-2"><a href="#">UI Design</a> . 02 May 2019</h4>
+            <h5><a href="#" class="blog__title-2">How to manage a talented and
                 successful de sign team</a></h5>
           </article>
         </div>
@@ -590,15 +497,15 @@
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
           <article class="blog__item-2">
             <div class="blog__img-wrapper">
-              <a href="blog-details.html">
+              <a href="#">
                 <div class="img-box">
                   <img class="image-box__item" src="assets/imgs/blog/1/3.jpg" alt="Blog Thumbnail">
                   <img class="image-box__item" src="assets/imgs/blog/1/3.jpg" alt="BLog Thumbnail">
                 </div>
               </a>
             </div>
-            <h4 class="blog__meta-2"><a href="category.html">UI Design</a> . 02 May 2019</h4>
-            <h5><a href="blog-details.html" class="blog__title-2">How to bring fold to your startup
+            <h4 class="blog__meta-2"><a href="#">UI Design</a> . 02 May 2019</h4>
+            <h5><a href="#" class="blog__title-2">How to bring fold to your startup
                 company with Axtra</a></h5>
           </article>
         </div>
