@@ -67,77 +67,14 @@
   <header class="header__area-2">
     <div class="header__inner-2">
       <div class="header__logo-2">
-        <a href="index.html"><img src="assets/imgs/logo/site-logo-white-2.png" alt="Site Logo"></a>
+        <a href="{{url('/')}}"><img style="width: 130px;" src="{{asset('assets/imgs/logo/site-logo-white-2.png')}}" alt="Site Logo"></a>
       </div>
       <div class="header__nav-2">
         <ul class="main-menu menu-anim">
           <li class="has-megamenu"><a href="#">home</a>
-            <ul class="mega-menu">
-              <li>
-                <div class="menu-heading">Agency</div>
-                <ul>
-                  <li><a href="index.html">Digital Maketing</a></li>
-                  <li><a href="index-2.html">Design Studio </a></li>
-                  <li><a href="index-3.html">Digital Agency</a></li>
-                  <li><a href="index-7.html">creative Agency</a></li>
-                  <li><a href="index-6.html">Startup Agency</a></li>
-                  <li><a href="index-8.html">modern agency</a></li>
-                  <li><a href="index-4.html">personal Portfolio</a></li>
-                </ul>
-              </li>
-              <li>
-                <div class="menu-heading">Agency Dark</div>
-                <ul>
-                  <li><a href="index-dark.html">Digital Maketing</a></li>
-                  <li><a href="index-2-dark.html">Design Studio</a></li>
-                  <li><a href="index-3-dark.html">Digital Agency</a></li>
-                  <li><a href="index-7-dark.html">creative Agency</a></li>
-                  <li><a href="index-6-dark.html">Startup Agency</a></li>
-                  <li><a href="index-8-dark.html">modern agency</a></li>
-                  <li><a href="index-4-dark.html">personal Portfolio</a></li>
-                </ul>
-              </li>
-              <li>
-                <div class="menu-heading">Portfolio</div>
-                <ul>
-
-                  <li><a href="index-5.html">portfolio showcase</a></li>
-                  <li><a href="index-10.html">showcase carousel</a></li>
-                  <li><a href="index-12.html">Interactive link</a></li>
-                  <li><a href="index-13.html">portfolio masonry</a></li>
-                  <li><a href="index-14.html">vertical grid</a></li>
-                  <li><a href="index-15.html">Interactive image slider</a></li>
-                  <li><a href="index-16.html">showcase parallax</a></li>
-                  <li><a href="index-17.html">logo showcase</a></li>
-                  <li><a href="index-9.html">showcase slider</a></li>
-                  <li><a href="index-11.html">Interactive hover showcase</a></li>
-                </ul>
-              </li>
-              <li>
-                <div class="menu-heading">Portfolio dark</div>
-                <ul>
-                  <li><a href="index-5-dark.html">portfolio showcase</a></li>
-                  <li><a href="index-10-dark.html">showcase carousel</a></li>
-                  <li><a href="index-12-dark.html">Interactive link</a></li>
-                  <li><a href="index-13-dark.html">portfolio masonry</a></li>
-                  <li><a href="index-14-dark.html">vertical grid</a></li>
-                  <li><a href="index-15-dark.html">Interactive image slider</a></li>
-                  <li><a href="index-16-dark.html">showcase parallax</a></li>
-                  <li><a href="index-17-dark.html">logo showcase</a></li>
-                </ul>
-              </li>
-              <li>
-                <div class="menu-heading">woocommerce</div>
-                <ul>
-                  <li><a href="index-woocommerce.html">Home</a></li>
-                  <li><a href="shop-full-width.html">shop - full width</a></li>
-                  <li><a href="shop-sidebar.html">shop - sidebar</a></li>
-                  <li><a href="shop-single.html">product details</a></li>
-                </ul>
-              </li>
-            </ul>
           </li>
-          <li><a href="index-woocommerce.html">woocomerce</a>
+          
+          {{-- <li><a href="index-woocommerce.html">woocomerce</a>
             <ul class="main-dropdown">
               <li><a href="index-woocommerce.html">Home</a></li>
               <li><a href="#">shop</a>
@@ -156,7 +93,7 @@
               <li><a href="account.html">Profile</a></li>
             </ul>
           </li>
-          <li class="has-megamenu"><a href="about.html">Pages</a>
+          <li class="has-megamenu"><a href="#">Pages</a>
             <ul class="mega-menu">
               <li>
                 <a>Service</a>
@@ -201,7 +138,7 @@
                   <li><a href="team-dark.html">Team dark</a></li>
                   <li><a href="team-details.html">Team Details</a></li>
                   <li><a href="team-details-dark.html">Team Details dark</a></li>
-                  <li><a href="career.html">career</a></li>
+                  <li><a href="#">career</a></li>
                   <li><a href="career-dark.html">career dark</a></li>
                   <li><a href="job-details.html">job details</a></li>
                   <li><a href="job-details-dark.html">job details dark</a></li>
@@ -223,11 +160,11 @@
               <li>
                 <a>Others</a>
                 <ul>
-                  <li><a href="about.html">about</a></li>
+                  <li><a href="#">about</a></li>
                   <li><a href="about-dark.html">about dark</a></li>
-                  <li><a href="faq.html">FAQs</a></li>
+                  <li><a href="#">FAQs</a></li>
                   <li><a href="faq-dark.html">FAQs dark</a></li>
-                  <li><a href="contact.html">contact</a></li>
+                  <li><a href="#">contact</a></li>
                   <li><a href="contact-dark.html">contact dark</a></li>
                   <li><a href="404.html">404</a></li>
                   <li><a href="404-dark.html">404 dark</a></li>
@@ -269,7 +206,7 @@
               <li><a href="category.html">category</a></li>
               <li><a href="blog-details.html">blog details</a></li>
             </ul>
-          </li>
+          </li> --}}
         </ul>
       </div>
       <div class="header__nav-icon-2">
@@ -299,9 +236,8 @@
             <div class="row">
               <div class="col-xxl-12">
                 <h2 class="sec-title-3 title-anim">Get started <br> now</h2>
-                <p class="footer__sub-title">If you would like to work with us or
-                  just want to get in touch, we’d love
-                  to hear from you!</p>
+                <p class="footer__sub-title"Instruction: Add action button here please
+              </p>
               </div>
             </div>
           </div>
@@ -311,14 +247,15 @@
               <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                 <div class="footer__location-2">
                   <div class="location">
-                    <h3>London</h3>
-                    <p>Baltia Squar, Mark Street, <br>
-                      London</p>
+                    <h3>Karachi</h3>
+                    <p>Block 13 Gulshan-e-Iqbal
+                      Karachi PK</p>
                   </div>
                   <div class="location">
-                    <h3>New York</h3>
-                    <p>Nenuya Centre, Elia Street <br>
-                      New York, USA</p>
+                    <h3>New Jersey</h3>
+                    <p>
+                      Dewolfe St Edison NJ USA
+                      </p>
                   </div>
                 </div>
               </div>
@@ -337,17 +274,17 @@
             <div class="row">
               <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-5">
                 <div class="footer__copyright-2">
-                  <p>© 2022 - 2025 | Alrights reserved by <a href="https://dev.wealcoder.com/" target="_blank">Wealcoder</a>
+                  <p>© {{Date('Y')}} | Alrights reserved by <a href="/" target="_blank">{{config('app.name')}}</a>
                   </p>
                 </div>
               </div>
               <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-7">
                 <div class="footer__nav">
                   <ul class="footer-menu menu-anim">
-                    <li><a href="about.html">about us</a></li>
-                    <li><a href="contact.html">contact</a></li>
-                    <li><a href="career.html">Career</a></li>
-                    <li><a href="faq.html">FAQs</a></li>
+                    <li><a href="#">about us</a></li>
+                    <li><a href="#">contact</a></li>
+                    <li><a href="#">Career</a></li>
+                    <li><a href="#">FAQs</a></li>
                   </ul>
                 </div>
               </div>
